@@ -1,0 +1,78 @@
+.top_sec, .middle_sec, .bottom_sec {
+  margin: 20px 12px;
+}
+
+.top_sec {
+  border: 5px solid black;
+  height: 210px;
+  display: flex;
+  align-items: center;
+}
+
+.pgb_objects {
+  margin-left: 10px;
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.purple_object {
+  width: 47px;
+  height: 142px;
+  margin-top: 48px;
+  background-color: #7F27DE;
+}
+
+.green_object {
+  width: 378px;
+  height: 190px;
+  background: #1F801F;
+}
+
+.blue_object {
+  height: 190px;
+  width: 190px;
+  background-color: #7CC7E8;
+  border-radius: 50%;
+}
+
+.middle_sec {
+  border: 5px dotted black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.yellow_object {
+  height: 189px;
+  width: 90%;
+  background-color: #FFF9C6;
+  box-shadow: 10px 10px 5px #383838;
+}
+
+.middle_sec, .bottom_sec {
+  height: 276px;
+}
+
+.bottom_sec {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hello_card {
+  width: 500px;
+  height: 300px;
+  border: 1px solid #C0BFC0;
+  box-shadow: 3px 3px 2px #C0BFC0;
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: #000575;
+  text-align: center;
+  letter-spacing: 7px;
+}

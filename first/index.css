@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+}
+
+.header {
+  width: 100%;
+  height: 16vh;
+  background-color: #444444;
+}
+.below_header {
+  width: 100%;
+  height: 84vh;
+  background-color: #D8D8D8;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.middle_section {
+  width: 70%;
+  height: 90%;
+  background-color: #EFEFEF;
+}
+.footer {
+  width: 70%;
+  height: 10%;
+  background-color: #222222;
+  position: bottom;
+}
