@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+}
+
+.grey_bar {
+  width: 100vw;
+  height: 12.25vh;
+  background-color: #D3D2D3;
+  display: flex;
+  align-items: center;
+}
+.blue_box {
+  width: 9.74vh;
+  height: 9.74vh;
+  margin-left: 27px;
+  background-color: #4185DE;
+}
+.white_bar {
+  width: 100vw;
+  height: 29.54vh;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  width: 88.62%;
+  height: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 22px;
+  color: #556168;
+}
+.blue_bar, .teal_bar, .green_bar {
+  width: 100vw;
+  height: 14.55vh;
+}
+
+.blue_bar {
+  background-color: #4185DE;
+}
+
+.teal_bar {
+  background-color: #46DFBA;
+}
+.green_bar {
+  background-color: #AFE67B;
+}
+.yellow_bar {
+  width: 100vw;
+  height: 14.56vh;
+  background-color: #F7E31B;
+}
